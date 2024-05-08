@@ -1,4 +1,3 @@
-# agrimage.com.tr
 AgriMage
 
 Çok yakında...
